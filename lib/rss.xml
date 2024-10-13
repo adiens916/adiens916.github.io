@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[adiens916.github.io]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>adiens916.github.io</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 13 Oct 2024 21:57:01 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 13 Oct 2024 21:57:00 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[index]]></title><description><![CDATA[ 
+ <br><br><br><br>
+<br>매달 총합 약 500건에 달하는 반복 작업
+<br>청구 내역과 입금 내역을 대조한 후, ERP에 등록하는 작업 
+<br>사람이 하면 2주 넘게 걸림
+<br><br><br><br>
+<br>과정을 모듈화하고 테스트함으로써, 복잡한 과정을 안정적으로 처리함
+<br><br><br>
+<br>빠른 처리를 위해 RPA → 웹 테스팅 도구 → HTTP 통신순으로 도입하며 개선
+<br><br>
+<br>5건 처리에 150초 소요
+
+
+<br><br>
+<br>5건 처리에 30초 소요
+
+
+<br><br>
+<br>5건 처리에 10초 소요
+
+
+<br><br>
+<br>약 500건을 20분 내외로 처리 가능
+
+
+
+<br><br>
+<br>이 외 약 10여개 작업 자동화
+<br><br><img alt="PDF_예시.png" src="assets\pdf_예시.png"><br><br><img alt="VBA_예시.png" src="assets\vba_예시.png">]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 13 Oct 2024 21:50:40 GMT</pubDate><enclosure url="assets\청구_내역_예시.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;assets\청구_내역_예시.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
